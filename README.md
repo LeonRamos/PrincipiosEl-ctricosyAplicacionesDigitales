@@ -1,29 +1,26 @@
 ```{=html}
 <!--
-author:   Johnny Cubides
-email:    jgcubidesc@unal.edu.co
+author:  León Miguel Ramos Corchado
+email:    leon.ramos@zapopan.tecmm.edu.mx
 version:  0.1.0
 logo:     
-comment:  Documentación para el curso de Taller de Ingeniería Electrónica de la Universidad Nacional de Colombia
+comment:  Documentación para el curso ddiseño y desarrollo de los recursos educativos digitales en la asignatura de Principios Eléctricos
+y Aplicaciones Digitales. En el periodo comprendido del 3 de marzo al 28 de noviembre del 2025.
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
           https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 -->
 ```
-# Taller de Ingeniería Electrónica
+# Recursos para el diseño y desarollo 
 
-Bienvenido al curso de **Taller de Ingeniería Electrónica**, en este curso
-aprenderá a "Pensar con las Manos", desarrollar habilidades Makers/Hackers, se
-espera que esta experiencia de aprendizaje contribuya a descubrir intereses
-sobre su futura vida profesional, como también, facilitarle relacionar los
-conocimientos que puede adquirir en los otros cursos y poderlos implementar al
-enfrentar una situación real.
+Matrerial compartido a el equipo de diseño y edición de la materia en linea donde se pretenede que el alumno aprenderá a "Pensar con las Manos", desarrollar habilidades Makers, se espera que esta experiencia de aprendizaje contribuya a descubrir interesessobre su futura vida profesional, como también, facilitarle relacionar los
+conocimientos que puede adquirir en los otros cursos y poderlos implementar alenfrentar una situación real.
 
 La experiencia de aprendizaje está enmarcada en el *Aprendizaje Basado en Fenómenos ABF*
 en el cual el objeto de estudio es la **Tecnología**. Se espera que a través
-del desarrollo de un Artefacto, (para nuestro caso un proyecto electrónico),
-podamos estudiar la relación existente entre la *Ciencia, Tecnología y Sociedad*.
+del desarrollo de un Artefacto, (para esta materia en linea se propone un proyecto electrónico),
+donde la virtualidad le exiga al alumno  no solo comprender conceptos sino evaluar la relación existente entre la *Ciencia, Tecnología y Sociedad a traves del ABF*.
 
 <h2>Proyecto</h2>
 
@@ -33,7 +30,7 @@ A continuación verá un esquema que representa las diferentes fases/tareas del 
 
 <h3>¿Qué se quiere realizar?</h3>
 
-En el curso de taller de ingeniería electrónica se pretende realizar un producto terminado
+En el curso  se pretende realizar un producto terminado
 el cual está orientado como alternativa de solución a una situación real
 problematizada por los estudiantes, la cual se puede alinear con metas o esfuerzos
 de interés global.
